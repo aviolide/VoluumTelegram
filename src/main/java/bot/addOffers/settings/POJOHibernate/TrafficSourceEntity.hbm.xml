@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="bot.addOffers.settings.POJOHibernate.TrafficSourceEntity" table="traffic_source" schema="spring">
+        <id name="id" column="id"/>
+        <property name="idVoluum" column="id_voluum"/>
+        <property name="nameVoluum" column="name_voluum"/>
+        <property name="login" column="login"/>
+        <property name="password" column="password"/>
+        <property name="nickname" column="nickname"/>
+        <property name="nickId" column="nick_id"/>
+    </class>
+</hibernate-mapping>

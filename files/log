@@ -1,0 +1,326 @@
+[2018-04-23 05:17:00] [INFO   ] finish changing cloak 
+[2018-04-23 05:17:03] [INFO   ] change in FR - W Smart ($3.4660) 7a7dd009 convers 19 ID 7a7dd009-c1ae-4bde-9cc3-deb482fc6053 
+[2018-04-23 05:17:03] [INFO   ] change in FR - W Smart ($3.4660) 4d6215fe convers 11 ID 4d6215fe-d5b5-40f3-83fb-31b89a090354 
+[2018-04-23 05:17:03] [INFO   ] change in DE - M Smart ($2.0352) 369433ec convers 2 ID 369433ec-ce1a-43b6-b8d9-8e22af328999 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W9-13965 ($1.6651) 10db3240 convers 19 ID 10db3240-be63-4d3e-a50a-a0e69b1ac00f 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W7-13965 ($1.6651) 8e2b0df2 convers 15 ID 8e2b0df2-2f2d-4e12-8945-562c4c1090cd 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W12-13919 ($1.6651) f2dbe804 convers 13 ID f2dbe804-6e42-48c2-ad61-ba64654ab230 
+[2018-04-23 05:17:03] [INFO   ] change in CA - W Smart ($3.8565) 2bd6c454 convers 10 ID 2bd6c454-62a9-47c6-8e99-0561bc5861fc 
+[2018-04-23 05:17:03] [INFO   ] change in CZ - W-6496 ($0.8365) 1b197794 convers 21 ID 1b197794-250f-4e8f-acd0-655286c5e99b 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M10-13917 ($1.6607) 3bddbfc7 convers 8 ID 3bddbfc7-e298-4da5-9358-f091f7b044db 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W10-13919 ($1.6651) 8e0419ef convers 5 ID 8e0419ef-c750-4dc2-b270-afb3dd438a90 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W4-12679 ($5.5506) d1c441b4 convers 1 ID d1c441b4-6f6a-4369-b0c7-c1e72f9d7a31 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W2 Smart ($1.6651) c5376c0c convers 6 ID c5376c0c-bc06-49a0-9f64-a4a1b1eadcba 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M2-13918 ($1.6651) 444c7388 convers 2 ID 444c7388-8894-477d-9ade-283b99335127 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M3-13917 ($1.6651) bad6429a convers 1 ID bad6429a-2dc1-4773-89d6-a2292a869a11 
+[2018-04-23 05:17:03] [INFO   ] change in CA - M Smart ($2.1585) 5dd1967c convers 0 ID 5dd1967c-2f22-4c92-aebd-0296d4ffad32 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M6-13918 ($1.6607) 57d31337 convers 8 ID 57d31337-4c50-4eac-a95b-2e875e5aea3a 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M7-13918 ($1.6607) d3c3e96f convers 5 ID d3c3e96f-4d94-405e-946f-52d2019a8f39 
+[2018-04-23 05:17:03] [INFO   ] change in NZ - M-13201 ($5.1805) 9eebaaa1 convers 3 ID 9eebaaa1-79ca-46cb-84bd-664c0944f977 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W-13965 ($1.6651) 6c47b3b5 convers 6 ID 6c47b3b5-62db-449d-b03c-3efffd2dcbc1 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W5-13965 ($1.6651) 76c0f2de convers 4 ID 76c0f2de-6255-46f2-9253-810cede53155 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W13-13919 ($1.6651) 023f956d convers 1 ID 023f956d-c6ef-4367-b13b-cad42018da33 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W3 Smart ($1.6651) 96cb2288 convers 3 ID 96cb2288-6b76-45b2-9c76-05566d79fead 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W11-13919 ($1.6651) cea4a979 convers 4 ID cea4a979-da3a-44c6-9b32-b86f3edb712b 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W2 Smart ($1.6651) d187a2e8 convers 3 ID d187a2e8-28c7-4e3d-8d47-e868938d13a4 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W14-13919 ($1.6651) 57b3625a convers 2 ID 57b3625a-f865-4010-afff-50cd81047af6 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M2 Smart ($1.6651) 98587089 convers 2 ID 98587089-f8e9-402c-9a6e-69b7f38daa6b 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W6-13965 ($1.6651) 4d2c6652 convers 2 ID 4d2c6652-755d-4bb0-8dcd-852fe7f67d89 
+[2018-04-23 05:17:03] [INFO   ] change in FR - M Smart ($2.75) c6582282 convers 5 ID c6582282-5c92-4d9c-bec1-db1384d18035 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M-13918 ($1.6651) 2fd57d77 convers 3 ID 2fd57d77-2c8d-4158-9395-3b559bce9f20 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M8-13918 ($1.6607) 3038a444 convers 2 ID 3038a444-3b79-43e3-b342-e691aead6964 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W8-13965 ($1.6651) cb2d3153 convers 2 ID cb2d3153-ab36-4425-95d6-e4a2bc55b5d1 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W Smart ($21.585) 8919a530 convers 0 ID 8919a530-1c21-4e33-abbc-b02af4eaa17e 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W2 Smart ($21.585) d75fcce0 convers 0 ID d75fcce0-c55a-476d-88f1-00f4d13d1274 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W7 Smart ($21.585) 8cf2d319 convers 1 ID 8cf2d319-e663-4c92-b338-b1992f37055d 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W8 Smart ($21.585) 5d243795 convers 0 ID 5d243795-7411-4668-be41-67086307d174 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W3 Smart ($21.585) b0875b0b convers 0 ID b0875b0b-6eaf-498d-9565-7f4534063b9b 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W5 Smart ($21.585) 9c5412f6 convers 0 ID 9c5412f6-9612-4839-92f2-6a42dc7825cd 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W4 Smart ($21.585) 244ffbdf convers 0 ID 244ffbdf-0c91-4bd0-b654-f23b278d7877 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W2 Smart ($21.425) bea2b579 convers 0 ID bea2b579-6197-4349-840d-ac7b5883971a 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W2 Smart ($21.1) 9c16f8da convers 1 ID 9c16f8da-8aef-4cc9-a033-38b32776a50d 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W Smart ($21.4254406905) 0ba2b764 convers 1 ID 0ba2b764-58ac-4b8d-8689-43248b5990a7 
+[2018-04-23 05:17:03] [INFO   ] change in GB - M Smart ($1.6651) dbd5e65f convers 1 ID dbd5e65f-ecec-4d78-89cf-5f694fb9d915 
+[2018-04-23 05:17:03] [INFO   ] change in SE - W-12649 ($21.585) 1fcd4deb convers 0 ID 1fcd4deb-8cb8-418b-b400-ca26db8002b3 
+[2018-04-23 05:17:03] [INFO   ] change in SE - M2 Smart ($12.951) 2e212993 convers 0 ID 2e212993-06f6-46ff-b656-7e6d414234bb 
+[2018-04-23 05:17:03] [INFO   ] change in GB - W3 Smart ($1.6651) 3f9f260b convers 0 ID 3f9f260b-16eb-4c4e-a89d-58190e59585f 
+[2018-04-23 05:17:03] [INFO   ] change in SE - M2-12648 ($12.951) 73f7c109 convers 0 ID 73f7c109-d602-469c-9db4-fad99220334d 
+[2018-04-23 05:17:03] [INFO   ] compaign CZ - W-6496 ($0.8365) 1b197794, price 0.8365, conversions 21, spent 4.7689, revenue 17.5665, profit 12.80, roi 268.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit CZ - W-6496 ($0.8365) 1b197794, price 0.8365, conversions 21, spentAmount 4.7689 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M8-13918 ($1.6607) 3038a444, price 1.6607, conversions 2, spent 4.5093, revenue 3.3214, profit -1.19, roi -26.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M7-13918 ($1.6607) d3c3e96f, price 1.6607, conversions 5, spent 5.6594, revenue 8.3035, profit 2.64, roi 47.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M6-13918 ($1.6607) 57d31337, price 1.6607, conversions 8, spent 5.7219, revenue 13.2856, profit 7.56, roi 132.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit GB - M6-13918 ($1.6607) 57d31337, price 1.6607, conversions 8, spentAmount 5.7219 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W14-13919 ($1.6651) 57b3625a, price 1.6651, conversions 2, spent 5.1209, revenue 3.3302, profit -1.79, roi -35.00 
+[2018-04-23 05:17:03] [INFO   ] stop compaign GB - W14-13919 ($1.6651) 57b3625a, price 1.6651, conversions 2, spentAmount 5.1209 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W12-13919 ($1.6651) f2dbe804, price 1.6651, conversions 13, spent 14.7929, revenue 21.6463, profit 6.85, roi 46.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit GB - W12-13919 ($1.6651) f2dbe804, price 1.6651, conversions 13, spentAmount 14.7929 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W10-13919 ($1.6651) 8e0419ef, price 1.6651, conversions 5, spent 8.6822, revenue 8.3255, profit -0.36, roi -4.00 
+[2018-04-23 05:17:03] [INFO   ] stop compaign GB - W10-13919 ($1.6651) 8e0419ef, price 1.6651, conversions 5, spentAmount 8.6822 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W8-13965 ($1.6651) cb2d3153, price 1.6651, conversions 2, spent 4.3381, revenue 3.3302, profit -1.01, roi -23.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W7-13965 ($1.6651) 8e2b0df2, price 1.6651, conversions 15, spent 14.8729, revenue 24.9765, profit 10.10, roi 68.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit GB - W7-13965 ($1.6651) 8e2b0df2, price 1.6651, conversions 15, spentAmount 14.8729 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W5-13965 ($1.6651) 76c0f2de, price 1.6651, conversions 4, spent 5.2529, revenue 6.6604, profit 1.41, roi 27.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W-13965 ($1.6651) 6c47b3b5, price 1.6651, conversions 6, spent 5.3488, revenue 9.9906, profit 4.64, roi 87.00 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W-12649 ($21.585) 1fcd4deb, price 21.585, conversions 0, spent 0, revenue 0.000, profit 0.00, roi null 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - M2-12648 ($12.951) 73f7c109, price 12.951, conversions 0, spent 0, revenue 0.000, profit 0.00, roi null 
+[2018-04-23 05:17:03] [INFO   ] compaign NZ - M-13201 ($5.1805) 9eebaaa1, price 5.1805, conversions 3, spent 6.4876, revenue 15.5415, profit 9.05, roi 139.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit NZ - M-13201 ($5.1805) 9eebaaa1, price 5.1805, conversions 3, spentAmount 6.4876 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M3-13917 ($1.6651) bad6429a, price 1.6651, conversions 1, spent 6.2698, revenue 1.6651, profit -4.60, roi -73.00 
+[2018-04-23 05:17:03] [INFO   ] stop compaign GB - M3-13917 ($1.6651) bad6429a, price 1.6651, conversions 1, spentAmount 6.2698 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W3 Smart ($1.6651) 96cb2288, price 1.6651, conversions 3, spent 5.1208, revenue 4.9953, profit -0.13, roi -3.00 
+[2018-04-23 05:17:03] [INFO   ] stop compaign GB - W3 Smart ($1.6651) 96cb2288, price 1.6651, conversions 3, spentAmount 5.1208 
+[2018-04-23 05:17:03] [INFO   ] compaign FR - W Smart ($3.4660) 7a7dd009, price 3.4660, conversions 19, spent 49.6279, revenue 65.8540, profit 16.23, roi 33.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit FR - W Smart ($3.4660) 7a7dd009, price 3.4660, conversions 19, spentAmount 49.6279 
+[2018-04-23 05:17:03] [INFO   ] compaign CA - M Smart ($2.1585) 5dd1967c, price 2.1585, conversions 0, spent 3.9646, revenue 0.0000, profit -3.96, roi -100.00 
+[2018-04-23 05:17:03] [INFO   ] stop compaign CA - M Smart ($2.1585) 5dd1967c, price 2.1585, conversions 0, spentAmount 3.9646 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M2 Smart ($1.6651) 98587089, price 1.6651, conversions 2, spent 3.9371, revenue 3.3302, profit -0.61, roi -15.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W3 Smart ($1.6651) 3f9f260b, price 1.6651, conversions 0, spent 0, revenue 0.0000, profit 0.00, roi null 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - M Smart ($1.6651) dbd5e65f, price 1.6651, conversions 1, spent 1.1429, revenue 1.6651, profit 0.52, roi 45.00 
+[2018-04-23 05:17:03] [INFO   ] compaign GB - W2 Smart ($1.6651) c5376c0c, price 1.6651, conversions 6, spent 7.9566, revenue 9.9906, profit 2.03, roi 26.00 
+[2018-04-23 05:17:03] [INFO   ] compaign FR - W Smart ($3.4660) 4d6215fe, price 3.4660, conversions 11, spent 32.4397, revenue 38.1260, profit 5.69, roi 18.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit FR - W Smart ($3.4660) 4d6215fe, price 3.4660, conversions 11, spentAmount 32.4397 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W7 Smart ($21.585) 8cf2d319, price 21.585, conversions 1, spent 6.4438, revenue 21.585, profit 15.14, roi 235.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit SE - W7 Smart ($21.585) 8cf2d319, price 21.585, conversions 1, spentAmount 6.4438 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W4 Smart ($21.585) 244ffbdf, price 21.585, conversions 0, spent 6.2405, revenue 0.000, profit -6.24, roi -100.00 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W3 Smart ($21.585) b0875b0b, price 21.585, conversions 0, spent 6.355, revenue 0.000, profit -6.36, roi -100.00 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W2 Smart ($21.585) d75fcce0, price 21.585, conversions 0, spent 6.5938, revenue 0.000, profit -6.59, roi -100.00 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W Smart ($21.585) 8919a530, price 21.585, conversions 0, spent 6.6115, revenue 0.000, profit -6.61, roi -100.00 
+[2018-04-23 05:17:03] [INFO   ] compaign CA - W Smart ($3.8565) 2bd6c454, price 3.8565, conversions 10, spent 8.9892, revenue 38.5650, profit 29.58, roi 329.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit CA - W Smart ($3.8565) 2bd6c454, price 3.8565, conversions 10, spentAmount 8.9892 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W Smart ($21.4254406905) 0ba2b764, price 21.4254406905, conversions 1, spent 5.3148, revenue 21.4254406905, profit 16.11, roi 303.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit SE - W Smart ($21.4254406905) 0ba2b764, price 21.4254406905, conversions 1, spentAmount 5.3148 
+[2018-04-23 05:17:03] [INFO   ] compaign SE - W2 Smart ($21.1) 9c16f8da, price 21.1, conversions 1, spent 5.7281, revenue 21.1, profit 15.37, roi 268.00 
+[2018-04-23 05:17:03] [INFO   ] campaign get profit SE - W2 Smart ($21.1) 9c16f8da, price 21.1, conversions 1, spentAmount 5.7281 
+[2018-04-23 05:17:03] [INFO   ] sleep 3 min, size 30 
+2018-05-17 05:57:23 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 16:55:55 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:04:53 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:13:38 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:14:25 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:32:30 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:45:26 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:50:25 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:51:02 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:52:49 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:53:49 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:54:56 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:56:41 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:57:35 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 17:58:31 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 18:00:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 18:31:27 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 19:33:44 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 19:39:12 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 19:41:10 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 19:45:27 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:00:40 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:02:13 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:02:39 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:05:55 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:07:27 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 20:08:01 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:39:44 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:40:19 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:45:03 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:47:21 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:50:06 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:51:05 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:52:28 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 21:58:19 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 22:01:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 22:04:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 22:08:45 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 23:37:52 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 23:39:59 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 23:56:35 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-17 23:57:59 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:02:45 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:06:36 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:08:31 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:19:42 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:24:17 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:30:43 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:33:15 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-18 00:34:28 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 14:39:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 14:40:35 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 14:58:16 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 15:10:40 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 16:40:49 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 18:03:53 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-20 18:08:30 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 14:51:56 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 15:05:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 15:12:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 15:16:49 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 15:18:42 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 15:18:50 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:19:22 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:19:38 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:19:54 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:19:58 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:20:14 WARN  ClickDealer:202 - offer applynull
+2018-05-21 15:45:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 18:49:44 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:00:21 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:01:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:09:09 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:18:52 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:27:51 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-05-21 19:31:35 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 17:53:32 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 17:56:38 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 17:59:00 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 18:01:59 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 18:23:43 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 22:40:43 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 22:40:50 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:14 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:18 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:37 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:41 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:45 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:49 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:53 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:41:57 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:42:05 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:42:09 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:42:31 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:42:53 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:51:41 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 22:51:56 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:08 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:12 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:18 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:29 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:50 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:52:54 WARN  ClickDealer:203 - offer applynull
+2018-06-18 22:53:00 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:00:29 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:00:42 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:00:48 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:03:24 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:03:49 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:04:24 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:04:30 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:04:37 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:04:44 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:04:57 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:06:40 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:06:47 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:06:54 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:07:16 WARN  ClickDealer:203 - offer applynull
+2018-06-18 23:11:50 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:15:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:18:39 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:22:54 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:28:46 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:44:54 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-18 23:53:53 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 00:02:57 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 00:05:21 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 00:08:00 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 00:09:58 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 11:39:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 14:09:55 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 15:29:14 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 15:56:05 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 16:01:48 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 16:44:40 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:05:38 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:06:27 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:12:44 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:15:13 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:15:18 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:15:31 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:15:37 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:15:44 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:15:50 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:15:59 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:16:05 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:16:12 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:16:15 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:20:47 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:20:54 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:20:57 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:01 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:05 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:10 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:14 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:20 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:23 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:39 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:47 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:52 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:55 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:21:58 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:08 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:29:23 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:28 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:34 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:42 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:45 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:50 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:29:58 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:30:11 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:04 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:34:18 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:24 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:35 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:38 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:41 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:45 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:48 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:51 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:54 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:34:57 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:35:05 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:35:11 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:35:16 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:36:37 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 17:36:43 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:36:47 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:36:50 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:36:53 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:36:59 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:37:05 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:37:10 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:37:15 WARN  ClickDealer:212 - offer applynull
+2018-06-19 17:37:18 WARN  ClickDealer:212 - offer applynull
+2018-06-19 18:25:05 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 18:46:26 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 22:29:16 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-19 22:35:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-20 16:01:34 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-20 16:03:36 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-20 16:05:52 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-20 16:06:17 WARN  ClickDealer:212 - offer applynull
+2018-06-20 18:59:21 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 16:05:25 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:08:24 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:17:57 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:31:58 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:39:46 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:41:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:51:21 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 20:52:29 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:04:38 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:11:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:21:28 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:23:42 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:26:46 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-21 21:30:31 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-23 13:09:56 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-23 13:11:47 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-25 21:27:51 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-25 21:28:48 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-25 21:56:18 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 19:21:22 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 19:21:24 WARN  SqlExceptionHelper:127 - SQL Error: 1054, SQLState: 42S22
+2018-06-28 19:21:24 ERROR SqlExceptionHelper:129 - Unknown column 'usersentit0_.name' in 'field list'
+2018-06-28 19:28:41 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 19:35:11 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 19:48:02 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 21:01:28 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2018-06-28 21:03:46 WARN  connections:71 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)

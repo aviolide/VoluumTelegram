@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="bot.addOffers.settings.POJOHibernate.AffiliateNetworksEntity" table="affiliate_networks"
+           schema="spring">
+        <id name="id" column="id"/>
+        <property name="nick" column="nick"/>
+        <property name="idVoluum" column="id_voluum"/>
+        <property name="nameVoluum" column="name_voluum"/>
+        <property name="login" column="login"/>
+        <property name="password" column="password"/>
+        <property name="domainMob" column="domain_mob"/>
+        <property name="domainWeb" column="domain_web"/>
+        <property name="affiliateId" column="affiliate_id"/>
+        <property name="apiKey" column="api_key"/>
+    </class>
+</hibernate-mapping>

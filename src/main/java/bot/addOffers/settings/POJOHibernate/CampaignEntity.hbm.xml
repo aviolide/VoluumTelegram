@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="bot.addOffers.settings.POJOHibernate.CampaignEntity" table="campaign" schema="spring">
+        <id name="id" column="id"/>
+        <property name="name" column="name"/>
+        <property name="flow" column="flow"/>
+        <property name="voluumFullId" column="voluum_full_id"/>
+        <property name="voluumShortId" column="voluum_short_id"/>
+        <property name="impressions" column="impressions"/>
+        <property name="spent" column="spent"/>
+        <property name="statusCompaign" column="status_compaign"/>
+        <property name="conversions" column="conversions"/>
+        <property name="cloak" column="cloak"/>
+    </class>
+</hibernate-mapping>

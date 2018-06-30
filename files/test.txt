@@ -1,0 +1,15 @@
+http://timesoworld.ru/preland/land/index.html?account={var:account}&ad_name={var:ad_name}&adset_name={var:adset_name}&clickid={clickid}
+заменить на приленде ссылки 
+код клоаки кладем в корень
+перекидываем на ленд-приленд
+пиксель на страницу спасибо
+
+
+
+
+
+
+форму клик айди
+
+<input type="hidden" name="base_url" value="http://hailifbeat1.ru">
+<input type="hidden" name="referrer" value="http://hailifbeat1.ru">
